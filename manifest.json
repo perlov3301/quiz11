@@ -1,0 +1,12 @@
+﻿{
+ "name": "quiz bs extension",
+ "version": "1.0",
+ "manifest_version": 2,
+ "description": "This ext will generate popup with question", 
+ "browser_action":
+   {
+    "icons": ["aic19b.png"],
+    "default_icon": "aic19b.png",
+    "default_popup": "carousel11.html"
+   }
+}
